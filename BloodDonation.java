@@ -12,5 +12,6 @@ for(int i = 1;i<=a;i++)
 product *= I ;
 }
 System.out.println(product);
+  System.out.println("anurag");
 }
 }
