@@ -4,7 +4,7 @@ class Vari2
 	{ 
 	int a = 10;
 	a=1000;
-	int b = 2000;
+	int b = 20000;
 	System.out.println(a);
 	System.out.println(b);
 	}
